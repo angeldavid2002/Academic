@@ -1,0 +1,15 @@
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\bin\Debug\net7.0\CursoNetcore.exe
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\bin\Debug\net7.0\CursoNetcore.deps.json
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\bin\Debug\net7.0\CursoNetcore.runtimeconfig.json
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\bin\Debug\net7.0\CursoNetcore.dll
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\bin\Debug\net7.0\CursoNetcore.pdb
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.csproj.AssemblyReference.cache
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.AssemblyInfoInputs.cache
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.AssemblyInfo.cs
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.dll
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\refint\CursoNetcore.dll
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.pdb
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\CursoNetcore.genruntimeconfig.cache
+C:\Users\Angel\Source\Repos\Academic\CursoNetcore\obj\Debug\net7.0\ref\CursoNetcore.dll
