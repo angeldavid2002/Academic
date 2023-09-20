@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CursoNetcore",
+    "\\CursoNetcore\\bin\\Debug"
   ],
-  "SelectedNode": "\\C:\\Users\\Angel\\Source\\Repos\\Academic",
+  "SelectedNode": "\\CursoNetcore\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
